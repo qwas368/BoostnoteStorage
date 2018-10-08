@@ -1,0 +1,19 @@
+createdAt: "2018-10-08T10:02:45.630Z"
+updatedAt: "2018-10-08T10:05:33.848Z"
+type: "MARKDOWN_NOTE"
+folder: "a02a0844706d95b3e24f"
+title: "ngrok"
+content: '''
+  # ngrok
+  
+  ## command
+  
+  ngrok http 13984 -host-header="localhost:13984"
+  
+  [link](.\\Boostnote\\attachment)
+'''
+tags: [
+  "ngrok"
+]
+isStarred: false
+isTrashed: false
